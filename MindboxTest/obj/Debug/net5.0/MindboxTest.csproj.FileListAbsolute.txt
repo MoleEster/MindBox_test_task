@@ -1,0 +1,16 @@
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.exe
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.deps.json
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.runtimeconfig.json
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.runtimeconfig.dev.json
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.dll
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\ref\MindboxTest.dll
+D:\программы на C#\MindboxTest\MindboxTest\bin\Debug\net5.0\MindboxTest.pdb
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.csproj.AssemblyReference.cache
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.AssemblyInfoInputs.cache
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.AssemblyInfo.cs
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.csproj.CoreCompileInputs.cache
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.dll
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\ref\MindboxTest.dll
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.pdb
+D:\программы на C#\MindboxTest\MindboxTest\obj\Debug\net5.0\MindboxTest.genruntimeconfig.cache
