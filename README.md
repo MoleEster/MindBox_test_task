@@ -1,0 +1,1 @@
+MindBox_test_task
